@@ -4,7 +4,7 @@
 
 Make sure you have the following installed on your system:
 
-- **Node.js** (16+ recommended)
+- **Node.js** (20.10.0)
 - **npm**
 
 ## Step 1: Clone the Repository

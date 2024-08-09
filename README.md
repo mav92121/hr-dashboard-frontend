@@ -28,3 +28,12 @@ npm run dev
 
 ### Step 4: Open the Application in Your Browser
 http://localhost:5173
+
+### Login Credintials 
+HR User:
+ - Email: hr@gmail.com
+ - Password: 123
+
+Hire User:
+ - Email: mav92121@gmail.com
+ - Password: 123

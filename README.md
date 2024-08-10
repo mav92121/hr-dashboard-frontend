@@ -26,7 +26,7 @@ npm install
 npm run dev
 ```
 
-### Step 4: Open the Application in Your Browser
+## Step 4: Open the Application in Your Browser
 http://localhost:5173
 
 ### Login Credintials 
@@ -37,3 +37,8 @@ HR User:
 Hire User:
  - Email: mav92121@gmail.com
  - Password: 123
+
+## Note 
+by default the password for new hire will be 123
+
+

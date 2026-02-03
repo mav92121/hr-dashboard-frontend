@@ -39,6 +39,6 @@ Hire User:
  - Password: 123
 
 ## Note 
-by default the password for new hire will be 123
+by default the password for new hire will be 123 & Ubuntu@121
 
 
